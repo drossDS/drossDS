@@ -2,7 +2,7 @@
 
 I'm a data scientist who enjoys building machine learning models that serve as impactful business tools. As a former mechanical engineer, I bring a rigorous approach to problem solving, a strong mathematical intuition, and the ability to bridge theoretical concepts with real-world applications. Using these skills, I hope to develop practical solutions which have a positive impact on our world.
 
-I just completed the General Assembly Data Science Immersive Bootcamp which is a full-time 12-week program with over 480 hours content focused that develops skills in programming, data collection, web scraping, exploratory data analysis and visualization, and machine learning models.  I'm looking forward to continuing my learning and posting even more cool projects to GitHub!
+I just completed the General Assembly Data Science Immersive Bootcamp which is a full-time 12-week program with over 480 hours content focused on developing skills in programming, data collection, web scraping, exploratory data analysis and visualization, and machine learning models.  I'm looking forward to continuing my learning and posting even more cool projects to GitHub!
 
 <!--
 **drossDS/drossDS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
